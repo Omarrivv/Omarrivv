@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Omar Félix Rivera Rosas, un programador y emprendedor joven de 17 años de Perú. Tengo una gran pasión por la tecnología y la innovación, y estoy siempre buscando nuevas formas de aprender y mejorar mis habilidades.<br><br>Soy un estudiante de la Universidad Valle Grande de Cañete, donde estudio Ingeniería de Sistemas. <br><br>Habilidades<br><br>Programación en Python, Java, JavaScript, Html,Css<br>Desarrollo web y móvil<br>Bases de datos<br>Sistemas operativos<br><br>Intereses<br><br>Tecnología<br>Innovación<br>Emprendedurismo<br>Aprendizaje<br>Viajes<br><br>Contacto<br><br>correo electronico -> omar.rivera@vallegrande.edu.pe
+Soy Omar Félix Rivera Rosas, un programador y emprendedor joven de 17 años de Perú. Tengo una gran pasión por la tecnología y la innovación, y estoy siempre buscando nuevas formas de aprender y mejorar mis habilidades.<br><br>Soy un estudiante de la Instituto Valle Grande de Cañete, donde estudio Analisis de Sistemas. <br><br>Habilidades<br><br>Programación en Python, Java, JavaScript, Html,Css<br>Desarrollo web y móvil<br>Bases de datos<br>Sistemas operativos<br><br>Intereses<br><br>Tecnología<br>Innovación<br>Emprendedurismo<br>Aprendizaje<br>Viajes<br><br>Contacto<br><br>correo electronico -> omar.rivera@vallegrande.edu.pe
 
 
 ## 🌐 Socials:
